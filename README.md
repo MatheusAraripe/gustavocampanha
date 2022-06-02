@@ -12,7 +12,7 @@
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gusta-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" height="300em" alt="O_bala" src="https://media.giphy.com/media/H4DgojtuLT7slMWiq2/giphy.gif" style="max-width:100%;">
+  <img align="right" height="300em" alt="Gusta" src="https://media.giphy.com/media/H4DgojtuLT7slMWiq2/giphy.gif" style="max-width:100%;">
 </div>
 
 ##
